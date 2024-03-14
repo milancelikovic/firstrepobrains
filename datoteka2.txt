@@ -1,0 +1,1 @@
+Test datoteka 2 na grani new_branch.
